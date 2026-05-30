@@ -5,3 +5,5 @@ print(4)
 print(4, 'donuts')
 #end argument
 print('donuts', end='!')
+#print a string and a number
+print(4, 'donuts', end='?')
