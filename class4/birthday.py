@@ -1,0 +1,6 @@
+BD="10/10/2014"
+BDTWO="20/5/1999"
+BDTHREE="15/8/2000"
+BDFOUR="1/2/2001"
+BDFIVE="30/12/1990"
+print("my friends birthdays are", BD, BDTWO, BDTHREE, BDFOUR, BDFIVE)
