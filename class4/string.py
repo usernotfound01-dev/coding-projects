@@ -1,3 +1,3 @@
-print("             hello welcome to my story             ")
-story="Once upon a time there was a boy named john who lived in a small village. he was known for his kindness and bravery. one day john decided to go on a journey to explore the world beyond his village. he parked his belongins in a small bag and set off on his adventure. along the way, he met many intresting peple and faced various challenges."
-print(story)
+
+
+print("congratulations".upper())
