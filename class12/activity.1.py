@@ -23,3 +23,17 @@ def calculate_change(bill,paid):
 
 store_change=calculate_change(rounded_amount,pay)
 rounded_change=round(store_change,2)
+
+def thank_you_message(num_cups):
+    if num_cups>=5:
+        return"wow thank you for you suppoting us:"
+    else:
+        return("thank you for stopping by:")
+
+thankyou=thank_you_message(cup)
+
+print("lemonade recipte:")
+print("total amount",rounded_amount)
+print("total cups",cup)
+print("change",rounded_change)
+print(thankyou)
